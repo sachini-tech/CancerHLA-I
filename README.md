@@ -4,7 +4,7 @@ CancerHLA-I is a comprehensive web-based resource developed to study the role of
 
 Web Server: https://webs.iiitd.edu.in/raghava/cancerhla1/
 
----
+ZENODO : https://doi.org/10.5281/zenodo.20073213
 
  ## Citation
 
